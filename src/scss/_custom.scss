@@ -1,0 +1,49 @@
+// Here you can add other styles
+.blacktheme{
+    background-color: rgba(233, 179, 0, 0.877); 
+    
+    
+}
+.textAreaBack{
+    background-color: rgb(240, 240, 240);
+    
+}
+.noborder{
+    border: 0ch;
+    outline: none;
+}
+.titleText1{
+    font-size: 50pt;      
+}
+.titleText2{
+    font-size: 30pt;
+    color: rgb(199, 199, 199);
+    
+}
+.avatar-circle-size{
+    width: 50px !important;
+    height: 50px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+}
+.logo{
+    width: 180px;
+    margin-bottom: 10px;      
+}
+.butonSize{
+    width: 200px;
+}
+.circularLandscape{
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: solid 4px rgb(168, 168, 168);
+}
+.backCard{
+    
+    border: solid 2px rgb(17, 17, 17);
+}
+.backCardSecondary{    
+    border: dashed 1px rgb(114, 114, 114);
+}
